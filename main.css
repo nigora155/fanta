@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+section{
+    display: flex;
+}
+.text-fanta{
+    width: 600px;
+}
